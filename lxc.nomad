@@ -7,7 +7,7 @@ job "example-lxc" {
       driver = "lxc"
 
       config {
-        log_level = "trace"
+        log_level = "info"
         verbosity = "verbose"
         template  = "/usr/share/lxc/templates/lxc-busybox"
       }
