@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 # job to support the "exec-users-host-volumes" guide on learn.
 # Requires a host volume to be configured on the client named
 # "scratch".
